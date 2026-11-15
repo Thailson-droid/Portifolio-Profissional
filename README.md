@@ -1,6 +1,6 @@
 # Portfólio Profissional | Thailson Droid
 
-**Aluno:** Thailson Droid
+
 
 ## Sobre o projeto
 
