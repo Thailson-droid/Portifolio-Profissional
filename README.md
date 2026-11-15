@@ -12,12 +12,12 @@ Este portfólio apresenta meu perfil, meus projetos acadêmicos e algumas das te
 
 ## Tecnologias utilizadas
 
-- HTML5
-- CSS3
-- Bootstrap 5
-- JavaScript do Bootstrap
-- Devicon, para os ícones das tecnologias
-
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40">
+</p>
 ## Como o projeto funciona
 
 O site é dividido em três seções principais: **Perfil**, **Projetos** e **Contato**. O menu de navegação permite acessar cada seção. O carrossel exibe imagens de apresentação, e os cards mostram informações sobre os projetos. O botão “Ver detalhes” abre uma janela modal com mais informações sobre o primeiro projeto.
